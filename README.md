@@ -18,7 +18,7 @@ UCLA CS/ECE M146 Spring 2020
 | 7 	            | 100	             |
 | 8 	            | Optional	       |
 
-| Assesments	      | Assignment Score |
+| Assessments	      | Assignment Score |
 | ----------------| ---------------- | 
 | Midterm	           | 100	         |
 | Final	            | Optional       |
